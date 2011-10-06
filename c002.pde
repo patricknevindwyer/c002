@@ -1,3 +1,11 @@
+/*
+  clock 002
+  2011/10/05T11:30:00
+  patrick dwyer
+  
+  See http://patricknevindwyer.github.com/clocks for more info.
+  
+*/
 PFont clockFont;
 
 
